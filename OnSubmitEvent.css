@@ -1,0 +1,19 @@
+div{
+    margin-bottom: 1rem;
+}
+
+#name-id{
+    margin-left: 2rem;
+}
+
+#email-id{
+    margin-left: 2rem;
+}
+
+#password-id{
+    margin-left: 8px;
+}
+#btn-id{
+    background-color: cadetblue;
+    color: aliceblue;
+}
